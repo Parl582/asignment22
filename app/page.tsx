@@ -26,10 +26,10 @@ export default function Home() {
       <p>
         Create a simple React application that fetches data from an API endpoint
         (for example, https://jsonplaceholder.typicode.com/posts). The
-        application should fetch the data when it's initially rendered. The
+        application should fetch the data when its initially rendered. The
         fetched data should be stored in a state management solution of your
         choice (e.g., Redux, Context API). Display the fetched data in a list,
-        with each post's title and body being shown. Your code should be
+        with each posts title and body being shown. Your code should be
         resilient against potential errors from the API (e.g., the API is down
         or slow to respond).
       </p>
